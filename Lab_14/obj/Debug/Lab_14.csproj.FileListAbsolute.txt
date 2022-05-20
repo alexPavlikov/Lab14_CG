@@ -1,0 +1,10 @@
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Lab_14\bin\Debug\Lab_14.exe.config
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Lab_14\bin\Debug\Lab_14.exe
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Lab_14\bin\Debug\Lab_14.pdb
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Lab_14\obj\Debug\Lab_14.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Lab_14\obj\Debug\Lab_14.Form1.resources
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Lab_14\obj\Debug\Lab_14.Properties.Resources.resources
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Lab_14\obj\Debug\Lab_14.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Lab_14\obj\Debug\Lab_14.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Lab_14\obj\Debug\Lab_14.exe
+C:\Users\admin\Desktop\2 Semestr alex.sueta\CG_2S\Lab_14\obj\Debug\Lab_14.pdb
